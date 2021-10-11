@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/casual-game-engine/casual-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Click <a href="next.html">here</a> to view another page!
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
