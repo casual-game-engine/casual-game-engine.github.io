@@ -4,7 +4,7 @@ Casual Game Engine is a 2D singleplayer top down-shooter engine which lets you c
 games using AngelScript as scripting language. AngelScript is an easy-to-use scripting language
 that has a wide popularity in the game development universe.
 
-<img src="capsule_main.png" width="550" height="250"/>
+<img src="gfx/capsule_main.png" width="550" height="250"/>
 
 This documentation helps you with creating your own games using the engine.
 
