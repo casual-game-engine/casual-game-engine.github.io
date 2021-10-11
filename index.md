@@ -1,39 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to the official documentation of Casual Game Engine
 
-You can use the [editor on GitHub](https://github.com/casual-game-engine/casual-game-engine.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Casual Game Engine is a 2D singleplayer top down-shooter engine which lets you create such kind of
+games using AngelScript as scripting language. AngelScript is an easy-to-use scripting language
+that has a wide popularity in the game development universe.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This documentation helps you with creating your own games using the engine.
 
-Click <a href="other.html">here</a> to view another page!
+### Table of contents
+1. [Installation](other.html)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/casual-game-engine/casual-game-engine.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you need help using the engine, feel free to create a topic at the [Steam discussions](https://steamcommunity.com/app/1725730/discussions/).<br/>
+If you need help with the basis of AngelScript, have a look at the [AngelScript documentation](https://www.angelcode.com/angelscript/sdk/docs/manual/index.html).
