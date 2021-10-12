@@ -12,8 +12,8 @@ point of view, you will just have to modify the behaviour of the player entity a
 world entities. Actually everything is an entity, be it, for instance, a tank, an alien, a lava
 pit, a weapon decal or whatever else entity you want to specify. 
 
-WARNING: You need base programming knowledge in order to proceed! Please refer to the official
-AngelScript documentation in order to get to know how the base language works. 
+<b>WARNING:</b> You need base programming knowledge in order to proceed! Please refer to the official
+<a href="https://www.angelcode.com/angelscript/sdk/docs/manual/index.html">AngelScript documentation</a> in order to get to know how the base language works. 
 
 An entity is implementing the IScriptedEntity interface, which looks like follows:
 ```angelscript
