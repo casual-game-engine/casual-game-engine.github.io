@@ -12,7 +12,7 @@ This documentation helps you with creating your own games using the engine.
 1. [Installation](installation.html)
 2. [Create a game](gamecreation.html)
 3. [Setup images](imagesetup.html)
-4. [Implement your game](implementing.html)
+4. [Implement your game](implementation.html)
 5. [Mapping](mapping.html)
 6. [Manage localization](localization.html)
 7. [API reference](apireference.html)
