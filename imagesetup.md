@@ -13,4 +13,5 @@ The usage of the assets are:
 
 Click on an asset and a file chooser will open where you can select your new asset. It will then replace the old asset.
 
+[Next chapter](implementation.html)<br/>
 [Back](index.html)
