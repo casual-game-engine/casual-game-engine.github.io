@@ -20,4 +20,4 @@ This documentation helps you with creating your own games using the engine.
 9. [API reference](apireference.html)
 
 If you need help using the engine, feel free to create a topic at the [Steam discussions](https://steamcommunity.com/app/1725730/discussions/).<br/>
-If you need help with the basis of AngelScript, have a look at the [AngelScript documentation](https://www.angelcode.com/angelscript/sdk/docs/manual/index.html).
+If you need help with the basics of AngelScript, have a look at the [AngelScript documentation](https://www.angelcode.com/angelscript/sdk/docs/manual/index.html).
