@@ -1,4 +1,4 @@
-## Sample entity implementation
+## Player specific implementations
 
 To do...
 
