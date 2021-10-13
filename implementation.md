@@ -136,5 +136,5 @@ bool SaveGame()
 In order to get to know how to actually implement entities, please have a look at the code provided with the templated created project.
 
 
-[Next chapter](mapping.html)<br/>
+[Next chapter](sampleentity.html)<br/>
 [Back](index.html)
