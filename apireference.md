@@ -1,4 +1,8 @@
-## API reference
+# Scripting API documentation for Casual Game Engine (dnyCasualGameEngine)
+
+(C) 2021 - 2022 by Daniel Brendel (dbrendel1988[at]gmail[dot]com)
+
+__Version__: 1.0
 
 ## Basic data types:
 * size_t: Can be used as entity iterator (64 Bit)
@@ -13,10 +17,14 @@
 
 ## Enums:
 ### MovementDir:
-* MOVE_FORWARD: Move in forward direction
-* MOVE_BACKWARD: Move backwards in direction
-* MOVE_LEFT: Move left
-* MOVE_RIGHT: Move right
+* MOVE_FORWARD: Move in forward direction (according to view)
+* MOVE_BACKWARD: Move backwards in direction (according to view)
+* MOVE_LEFT: Move left (according to view)
+* MOVE_RIGHT: Move right (according to view)
+* MOVE_NORTH: Move to north
+* MOVE_SOUTH: Move to south
+* MOVE_WEST: Move to west
+* MOVE_EAST: Move to east
 ### FileSeekWay:
 * SEEKW_BEGIN: Start from the begin of a file
 * SEEKW_CURRENT: Start from current file offset
@@ -222,6 +230,8 @@ void SetRotation(float)
 void OnDamage(uint32)
 //Indicate whether this entity shall be removed by the game
 bool NeedsRemoval()
+//Indicate if this entity can be dormant
+bool CanBeDormant()
 //Return a name string here, e.g. the class name or instance name. Used to distinguish the entity class from others
 string GetName()
 //Return a string that contains all save game properties for this entity
@@ -419,5 +429,8 @@ You can use all things from
 * AngelScript std string
 * AngelScript script array
 * AngelScript script math
+
+View the official AngelScript documentation in order to learn about
+general AngelScript programming and how the scripting language works.
 
 [Back](index.html)
